@@ -1,0 +1,13 @@
+{
+  "bg":"res/BG.png",
+  "sym2":"res/SYM2.png",
+  "sym3":"res/SYM3.png",
+  "sym4":"res/SYM4.png",
+  "sym5":"res/SYM5.png",
+  "sym6":"res/SYM6.png",
+  "arrowLeft":"res/rsz_arrow-left1.png",
+    "arrowRight":"res/rsz_arrow-right1.png",
+    "predict":"res/predict.gif",
+    "spin":"res/spin.png"
+
+}
